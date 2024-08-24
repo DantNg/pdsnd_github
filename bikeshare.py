@@ -2,9 +2,9 @@ import time
 import pandas as pd
 import numpy as np
 
-CITY_DATA = { 'chicago': 'D:\\Udacity\\all-project-files\\chicago.csv',
-              'new york city': 'D:\\Udacity\\all-project-files\\new_york_city.csv',
-              'washington': 'D:\\Udacity\\all-project-files\\washington.csv' }
+CITY_DATA = { 'chicago': 'chicago.csv',
+              'new york city': 'new_york_city.csv',
+              'washington': 'washington.csv' }
 MONTH = ['all','january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 DAYS_IN_WEEK = ['all','monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
 def get_filters():
