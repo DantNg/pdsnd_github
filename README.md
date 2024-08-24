@@ -16,6 +16,14 @@ This project allows users to explore and analyze bike-sharing data from three ma
 
 ## Requirements
 This python script requires the following libraries:
+* Pandas
+* Numpy
+## Credits
+This project was based on resources from the following:
+* Programming for Data Science with Python
+
+## Requirements
+This python script requires the following libraries:
 * pandas==2.1.0
 * numpy==1.25.2
 ## Credits
